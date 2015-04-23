@@ -1,0 +1,21 @@
+{
+    "name": "bandodebits/yii2-bdb-bootstrap",
+    "description": "Bootstrap",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "Pablo Pereira",
+            "email": "pablopereira27@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "bdb\\bootstrap\\": ""
+        }
+    }
+}
